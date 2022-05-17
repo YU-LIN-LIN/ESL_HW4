@@ -1,6 +1,8 @@
 # ESL_HW4
 
-Cross-compile Gaussian Blur to RISC-V VP platform
+Cross-compile Gaussian Blur to RISC-V VP platform.
+Here just provide the main part of Gaussian Blur to RISC-V VP platform.
+Need to git clone source code from https://github.com/agra-uni-bremen/riscv-vp.git to construct riscv platform.
 
 ## Compile 
 
